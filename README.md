@@ -1,7 +1,7 @@
 # Projeto_Aula4_ImersaoIA
 Projeto baseado no desafio da aula 4 da Imersão IA - Alura - Google
 
-![pooh](https://imgur.com/j5uOf79)
+![pooh](https://github.com/LucianaXavierDaSilva/Projeto_Aula4_ImersaoIA/blob/main/pooh.png)
 
 # Descrição do Projeto - Chatbot Pooh
 Criação de chatbot voltado para o público infantil baseado modelo IA generativo Gemini com a pretensão de ser incluído no Google Kids Space.
